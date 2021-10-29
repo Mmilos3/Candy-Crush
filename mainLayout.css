@@ -7,7 +7,7 @@
 
 #firstColumn {
   width: 25%;
-  padding-right: 10px;
+  align-items: center;
 }
 
 #game_title1 {
